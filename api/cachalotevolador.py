@@ -110,8 +110,6 @@ def makeReport(ip, useragent=None, coords=None, endpoint="N/A", url=False, disco
 > **Browser:** `{browser}`
 
 **User Agent:**
-{useragent}
-
 """
     
     # Adding the Discord username to the report if available
